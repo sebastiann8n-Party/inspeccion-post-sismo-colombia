@@ -1,0 +1,6 @@
+{
+  "name": "Inspección Post-Sismo",
+  "description": "Aplicación para la captura del Formulario Único para Inspección de Edificaciones Después de un Sismo de la Alcaldía Mayor de Bogotá. Funciona 100% offline, genera PDF y CSV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

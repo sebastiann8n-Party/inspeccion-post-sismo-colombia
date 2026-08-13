@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Heart (Coral Red / Warm Orange) -->
+    <path
+        android:fillColor="#E55B49"
+        android:pathData="M54,49 C54,49 41,38 35,44 C29,50 34,60 41,65 C47,70 54,76 54,76 C54,76 61,70 67,65 C74,60 79,50 73,44 C67,38 54,49 54,49 Z" />
+    
+    <!-- Outer Heart Layer Arc / Accent -->
+    <path
+        android:fillColor="#F08269"
+        android:pathData="M54,45 C50,42 43,40 38,44 C34,48 37,55 42,60 C47,64 54,70 54,70 C54,70 50,62 45,58 C41,54 39,49 42,46 C45,43 51,44 54,45 Z" />
+
+    <!-- Supporting Teal Hand -->
+    <path
+        android:fillColor="#2C8583"
+        android:pathData="M31,78 C31,78 36,63 45,55 C53,48 60,49 60,49 C60,49 56,53 50,57 C43,62 39,71 39,71 C39,71 46,65 52,60 C58,55 64,52 69,54 C74,56 75,61 70,66 C65,71 58,76 50,81 C42,86 35,90 35,90 C35,90 28,84 31,78 Z" />
+
+    <!-- Hand Wrist / Palm Line Detail -->
+    <path
+        android:fillColor="#1F6260"
+        android:pathData="M32,82 C35,76 39,70 45,64 C50,59 55,56 55,56 C55,56 49,60 44,65 C38,71 34,78 32,82 Z" />
+</vector>
